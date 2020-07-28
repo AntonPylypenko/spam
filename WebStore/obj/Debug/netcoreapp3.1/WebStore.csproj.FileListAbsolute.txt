@@ -1,0 +1,13 @@
+C:\Users\Anton Pylypenko\source\repos\WebStore\obj\Debug\netcoreapp3.1\WebStore.AssemblyInfoInputs.cache
+C:\Users\Anton Pylypenko\source\repos\WebStore\obj\Debug\netcoreapp3.1\WebStore.AssemblyInfo.cs
+C:\Users\Anton Pylypenko\source\repos\WebStore\obj\Debug\netcoreapp3.1\WebStore.csproj.CoreCompileInputs.cache
+C:\Users\Anton Pylypenko\source\repos\WebStore\bin\Debug\netcoreapp3.1\WebStore.exe
+C:\Users\Anton Pylypenko\source\repos\WebStore\bin\Debug\netcoreapp3.1\WebStore.deps.json
+C:\Users\Anton Pylypenko\source\repos\WebStore\bin\Debug\netcoreapp3.1\WebStore.runtimeconfig.json
+C:\Users\Anton Pylypenko\source\repos\WebStore\bin\Debug\netcoreapp3.1\WebStore.runtimeconfig.dev.json
+C:\Users\Anton Pylypenko\source\repos\WebStore\bin\Debug\netcoreapp3.1\WebStore.dll
+C:\Users\Anton Pylypenko\source\repos\WebStore\bin\Debug\netcoreapp3.1\WebStore.pdb
+C:\Users\Anton Pylypenko\source\repos\WebStore\obj\Debug\netcoreapp3.1\WebStore.dll
+C:\Users\Anton Pylypenko\source\repos\WebStore\obj\Debug\netcoreapp3.1\WebStore.pdb
+C:\Users\Anton Pylypenko\source\repos\WebStore\obj\Debug\netcoreapp3.1\WebStore.genruntimeconfig.cache
+C:\Users\Anton Pylypenko\source\repos\WebStore\obj\Debug\netcoreapp3.1\WebStore.csprojAssemblyReference.cache
